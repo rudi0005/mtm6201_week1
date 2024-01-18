@@ -1,0 +1,13 @@
+h1 {
+    color:brown;
+    font-family: "DM Sans", sans-serif;
+}
+li {
+    font-family: "DM Sans", sans-serif;
+}
+body {
+    background-color:pink;
+}
+.photo {
+    width: 30%;
+}
